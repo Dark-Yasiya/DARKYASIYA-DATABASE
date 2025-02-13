@@ -4,6 +4,8 @@
     "giveut": "*🌐 Please provide a URL or text ❓*",
     "givedu": "*🌐 Please provide Direct URL ❓*",
     "not_fo": "*❌ Sorry, I couldn’t find anything 😔*",
+    "gdurl": "*🌐 Please provide a GDrive URL ❓*",
+    "megaurl": "*🌐 Please provide a Mega URL ❓*",
     "url": "*🔗 Kindly provide a URL ❓*",
     "valid_url": "*🚫 This URL seems invalid. Please provide a valid one! ❗*",
     "size_big": "*🚫 Oops, the file size is too big!*",
