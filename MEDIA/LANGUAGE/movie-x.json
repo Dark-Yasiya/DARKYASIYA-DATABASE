@@ -1,6 +1,6 @@
 {
   "replyMsg": {
-    "giveme": "*🙏 Please provide text ❓*",
+    "giveme": "*Please provide text ❓*",
     "giveut": "*🌐 Please provide a URL or text ❓*",
     "not_fo": "*❌ Sorry, I couldn’t find anything 😔*",
     "url": "*🔗 Kindly provide a URL ❓*",
@@ -20,6 +20,7 @@
     "ald_reapprove_alljid": "*❌ All JIDs approval rejected!*",
     "band_users": "*⛔ You are banned from using commands...*",
     "erro": "*⚠️ Error occurred!*",
+    "gp_member": "*I need mention for Participant ⛔*",
     "valid_con": "*This Config value is Invalid !❌*",
     "err": "*🛠️ An unexpected error happened ❌*",
     "try": "*🔄 Please try again later!*",
@@ -29,6 +30,6 @@
     "tvup4": "*🔄 Fetching Google Drive URLs...*",
     "tvup5": "*🔄 Generating Google Drive download links...*",
     "tvup6": "*✅ Successfully fetched details!*\n*Uploading episodes...⬆️*",
-    "tvupsinh": ""
+    "tvupsinh": "*🔄 Fetching Other Details...*"
   }
 }
